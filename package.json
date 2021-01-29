@@ -1,6 +1,6 @@
 {
     "name": "@ijstech/pdm",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "author": "https://ijs.network",
     "license": "AGPL-3.0",
     "description": "Persistent Data Model plugin",
