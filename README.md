@@ -1,2 +1,2 @@
 # @ijstech/pdm
- Persistent Data Model plugin for [Secure Application Server](https://github.com/ijstech/app-server)
+ Persistent Data Model Plugin for [IJS Secure Node Server](https://github.com/ijstech/node)
