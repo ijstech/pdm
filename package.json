@@ -1,9 +1,9 @@
 {
     "name": "@ijstech/pdm",
-    "version": "0.0.2",
+    "version": "0.1.1",
     "author": "https://ijs.network",
     "license": "AGPL-3.0",
-    "description": "Persistent Data Model plugin",
+    "description": "Persistent Data Model Plugin for IJS Secure Node",
     "dependencies": {
         "mysql": "^2.18.1"
     },
