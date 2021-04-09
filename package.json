@@ -5,10 +5,13 @@
     "license": "AGPL-3.0",
     "description": "Persistent Data Model Plugin for IJS Secure Node",
     "dependencies": {
-        "mysql": "^2.18.1",
-        "uuid": "^8.3.2"
+        "mysql": "2.18.1",
+        "uuid": "8.3.2",
+        "@ijstech/db": "^0.1.2",
+        "@ijstech/log": "^0.1.0",
+        "@ijstech/storage": "^0.1.0"
     },
-    "main": "lib/index.js",    
+    "main": "lib/index.js",
     "repository": {
         "type": "git",
         "url": "https://github.com/ijstech/pdm"
